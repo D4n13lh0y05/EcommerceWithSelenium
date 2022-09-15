@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2357" started-at="2022-09-15T03:39:01 COT" finished-at="2022-09-15T03:39:04 COT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2357" started-at="2022-09-15T03:39:01 COT" finished-at="2022-09-15T03:39:04 COT">
+      <class name="com.project.test.OrderProductWithHigherPrice">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.project.test.OrderProductWithHigherPrice@67205a84]" name="beforeClass" is-config="true" duration-ms="3282" started-at="2022-09-15T03:38:58 COT" finished-at="2022-09-15T03:39:01 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.project.test.OrderProductWithHigherPrice@67205a84]" name="test" duration-ms="2325" started-at="2022-09-15T03:39:01 COT" finished-at="2022-09-15T03:39:04 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.project.test.OrderProductWithHigherPrice@67205a84]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-09-15T03:39:04 COT" finished-at="2022-09-15T03:39:04 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.project.test.OrderProductWithHigherPrice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
